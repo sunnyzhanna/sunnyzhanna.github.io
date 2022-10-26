@@ -1,22 +1,33 @@
-# Hello Website (blank)
+# Welcome Boo-dents
 
-This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
+On your computer screams you will see a terrifying pumpkin. 
 
-## What's in this project?
+```
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
 
-← `index.html`: This is the main HTML page for your site.
-
-← `style.css`: CSS files add styling rules to your content.
-
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
-
-## You built this with Glitch!
-
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
-
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+                              Jgy__
+                            jWW  `""9Wf
+                          _#WWW     IW
+                         jWWWWW     IW
+                 __,yyyyyWWWWW     IWyyyy___
+            _jyWWP"^``"`.C"9*,J _.mqD:^^"WWWWWWQg__
+          jgW"^.C/"    .C'     I    `D.     'D._"WQg_
+        jWP` .C"       C'      I     `D._     `D._ "Qg_
+      jQP`  .C    ,d^^b._      I      _.d^^b.   `D._ "Qg
+     jQ^  .C"   /`   .+" \     I     / "+.   `\   `D.  XQ
+    jQ'  .C'   |`  ."    )    _I    (     ".  |    `D.  4#
+    Qf  .C     (   (    /    / /\    \     )  )     `D.  Qg
+   jW   C'      \__\_.+'    / /  \    `+._/__/       `D  jQ
+   Qf   C         C        /_/    \         D         D   Qk
+   Qf   C      _  C        \_\____/         D  _      D   QF
+   QL   C      \`+.__     _______     ______.+'/      D   QF
+   B&   C.      \   \|    ||     |    ||      /       D   Qf
+   jQ   `C.      \   |____|/     |____|/__   /      .D'   jW
+    TQ   `C.      \._   `+.__________/___/|_/      .D'   jQ`
+     9Q   `C.      C.`+._           |   |/.D'     .D'   jQ'
+      "Qg  `C.     `C.   `"+-------'   ' .D'     .D'   pW`
+       ^WQy `C.     `C.        I        .D'    _.D' yW"
+         ^9Qy_`C.    `C.       I       .D'   _.D jgW"
+            `9WQgC.__ `C.      I      .D'  _.Dp@@"`
+           ilmk `""9WQQggyyyyyygyyyyyQggQWQH""
+```
