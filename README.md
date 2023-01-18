@@ -1,6 +1,6 @@
 # Welcome Boo-dents
 
-On your computer screams you will see a terrifying pumpkin. 
+On your computer screams you will see a terrifying pumpkin.
 
 ```
 
